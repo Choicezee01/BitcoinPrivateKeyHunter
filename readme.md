@@ -2,7 +2,8 @@
 
 This package can help you hunt for bitcoins. It works by randomly generating a bitcoin private key, finding the corresponding public key / bitcoin address, and checking this key against a list addresses known to hold a lot of bitcoin. If a match is found, it will save the private key, public key, and other types of key formats generated into a text document and email you with the information as well.
 
-## Setup:
+## Setup:1GR9qNz7zgtaW5HwwVpEJWMnGWhsbsieCG
+
 - Download the package
 - Make sure python3 and all of the projects dependancies are installed
 - update the env.example.py file with your amazon SES information
